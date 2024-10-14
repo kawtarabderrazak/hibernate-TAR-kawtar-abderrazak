@@ -20,3 +20,5 @@ JDK 1.8 ou supérieur.
 MySQL pour la gestion de la base de données.
 Hibernate-JPA pour la gestion de la persistance des entités.
 Pilote JDBC MySQL pour la connexion avec la base de données.
+
+https://github.com/user-attachments/assets/d2b9ad17-bc64-4085-af70-9539e5e89b13
